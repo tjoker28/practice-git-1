@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capital of France
+test
+test2
+test3
